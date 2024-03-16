@@ -1,3 +1,6 @@
+- [ ] Got it to work
+- [X] Ate pasta
+
 # First Topic
 ## First Subtopic
 ### First Subtopic Point
